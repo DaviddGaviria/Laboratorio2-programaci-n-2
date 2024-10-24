@@ -1,0 +1,24 @@
+#Deportes
+¿Cuándo anotó su primer gol Messi?|1 de mayo del 2005|10 de junio de 2004|15 de enero de 2007|10 de junio de 2008
+¿Cuántas copas mundiales tiene Pelé?|5 mundiales|2 mundiales|1 mundial|3 mundiales
+¿Cuántos goles anotó Cristiano Ronaldo en toda su carrera?|900|850|1000|770
+¿La invención del voleibol fue en?|9 de febrero de 1885|4 de enero de 1896|30 de febrero de 1987|15 de abril de 1882
+Un cubo de Rubik tiene caras en rojo, naranja, verde, amarillo, azul y... ¿Qué otro color?|morado|negro|blanco|gris
+¿Quién ganó el mundial de fútbol de 2010?|Francia|España|Brasil|Colombia
+¿En qué posición juega el cancerbero de un equipo de fútbol?|Lateral|Extremo|Portero|Delantero
+¿Quién se considera el mejor jugador de baloncesto de todos los tiempos?|Michael Ballack|Julian Smith|Kobe Bryant|Michael Jordan
+¿Qué tipo de competición es el Giro de Italia?|Golf|Ciclismo|Fútbol|Baloncesto
+¿Cuánto dura un partido de balonmano?|70 minutos|60 minutos|40 minutos|30 minutos
+
+#Historia
+¿Cuántos años duró la Segunda Guerra Mundial?|6 años|3 años|4 años|10 años
+¿Quién inventó la bombilla?|Thomas Edison|Nikola Tesla|Alexander Graham Bell|Ever Kirchhoff
+¿Cuándo acabó la II Guerra Mundial?|1956|1930|1945|1940
+¿En qué año se produjo la Revolución Francesa?|1740|1789|1840|1850
+¿En qué año llegó Cristóbal Colón a América?|1500|1420|1492|1450
+Según la Biblia, ¿cuántos años vivió Matusalén?|800 años|80 años|100 años|969 años
+¿En qué país nació Adolf Hitler?|Colombia|Austria|Rusia|Inglaterra
+¿Cuánto duró 'La Guerra de los Cien Años'?|100 años|116 años|50 años|120 años
+¿Hace cuánto se extinguieron los dinosaurios?|Hace 66 millones de años|Hace 100 millones de años|Hace 40 años|Todas las anteriores
+¿Quién fue el último faraón de Egipto?|Gaviria II|Amosis I|Akenatón|Ramsés II
+

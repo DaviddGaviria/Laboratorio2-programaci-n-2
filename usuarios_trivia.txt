@@ -1,0 +1,4 @@
+ever,1234,1,conectado
+david,12345,0,False
+julian,1089,4,False
+fernando,3178,0,False
